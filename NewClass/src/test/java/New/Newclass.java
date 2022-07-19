@@ -9,9 +9,9 @@ public class Newclass {
 
 		System.out.println("New vgffNMbajJ");
 		System.out.println("New vgffNMbajJ");
-		System.out.println("New vgffNMbajJ");System.out.println("New vgffNMbajJ");
 		System.out.println("New vgffNMbajJ");
-		System.out.println("New vgffNMbajJ");System.out.println("New vgffNMbajJ");
+		System.out.println("New vgffNMbajJ");
+		System.out.println("New vgffNMbajJ");
 		System.out.println("New vgffNMbajJ");
 		System.out.println("New vgffNMbajJ");
 		
