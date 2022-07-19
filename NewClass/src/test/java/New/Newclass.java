@@ -6,7 +6,9 @@ public class Newclass {
 
 	@Test
 	public void stat() {
-		System.out.println("New");
+
+		System.out.println("New vgffNMbajHKJ");
+
 	}
 
 }
