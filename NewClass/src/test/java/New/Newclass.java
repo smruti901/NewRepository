@@ -8,11 +8,8 @@ public class Newclass {
 	public void stat() {
 
 		System.out.println("New vgffNMbajJ");
-		System.out.println("New vgffNMbajJ");
-		System.out.println("New vgffNMbajJ");
-		System.out.println("New vgffNMbajJ");
-		System.out.println("New vgffNMbajJ");
-		System.out.println("New vgffNMbajJ");
+		
+		
 
 	}
 
