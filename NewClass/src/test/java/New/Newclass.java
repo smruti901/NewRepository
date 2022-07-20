@@ -19,16 +19,11 @@ public class Newclass {
 		System.out.println("New vgffNMbajJ");
 
 		System.out.println("New vgffNMbajJ");
+
+		System.out.println("LALA");
 		System.out.println("RAJA");
 		
 		
-		
-		
-		
-
-		
-		
-
 		
 		
 
