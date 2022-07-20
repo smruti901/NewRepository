@@ -19,16 +19,12 @@ public class Newclass {
 		System.out.println("New vgffNMbajJ");
 
 		System.out.println("New vgffNMbajJ");
-		
-		
-		
-		
-		
-		
 
-		
-		
 
+		System.out.println("LALA");
+		System.out.println("RAJA");
+		
+		
 		
 		
 System.out.println("THIS CODE EEDITED IN MY ECLIPSE");
