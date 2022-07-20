@@ -23,7 +23,6 @@ public class Newclass {
 
 		
 		
-		System.out.println("Thank yoyu");
 
 		
 		
