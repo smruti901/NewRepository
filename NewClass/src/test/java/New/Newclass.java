@@ -26,6 +26,11 @@ public class Newclass {
 
 		
 		
+System.out.println("THIS CODE EEDITED IN MY ECLIPSE");
+		
+		//System.out.println("Thank yoyu");
+		
+		
 
 	}
 
